@@ -5,8 +5,16 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
+    "authors": [
+      {
+        "name": "Alex Wang",
+        "email": "selltrends@gmail.com",
+        "homepage": "http://www.atopt.com",
+        "role": "Developer"
+      }
+    ],
     "require": {
-        "magento/framework": "100.1.*"
+        "magento/framework": "100.0.*|100.1.*|100.2.*"
     },
     "type": "magento2-language",
     "autoload": {
